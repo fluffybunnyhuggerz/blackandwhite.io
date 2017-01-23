@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Web 1 | Final</title>
+    <link href="css/normalize.css" type="text/css" rel="stylesheet">
+    <link href="css/style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+	<div id="main_nav">
+		<header>
+    		<h1>a very black <b>&amp;</b> white website</h1>
+    	</header>
+    
+    	<nav>
+    		<ul>
+    			<li><a href="index.html">home</a></li>
+            	<li><a href="webpage/about.html">about</a></li>
+            	<li><a href="webpage/projects.html">projects</a></li>
+            	<li><a href="webpage/contact.html">contact</a></li>
+        	</ul>
+    	</nav>
+        
+        <footer>
+        	<p>Web 1 | Final &bull; Lise Lao&copy;</p>
+        </footer>
+    </div>
+    
+    <main id="intro">
+    	<img src="images/01.jpg">
+        <img src="images/02.jpg">
+        <img src="images/03.jpg">
+		<img src="images/08.jpg">
+        <img src="images/04.jpg">
+        <img src="images/07.jpg">
+		<img src="images/09.jpg">
+        <img src="images/05.jpg">
+        <img src="images/06.jpg">
+        <img src="images/10.jpg">
+    </main>
+</body>
+</html>
